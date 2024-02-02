@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#define valobasha mahi
 using namespace std;
 class Solution {
 public:
